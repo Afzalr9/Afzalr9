@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Afzalr9
+- 👀 I’m interested in Data, Badminton, Hiking and Cooking...
+- 🌱 I’m currently learning Data Analaytics on Coursera through Google's Data Analytics Course ...
+- 💞️ I’m not looking to collaborate on anything in particular but would love to contribute to something if it interests me. ...
+- 📫 You can reach me by sending a message on Github
+<!---
+Afzalr9/Afzalr9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
